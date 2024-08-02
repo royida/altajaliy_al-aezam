@@ -10920,5 +10920,7 @@ color:whitesmoke;
   font-weight:bolder;
   size: 18em;
 }
-.navbar{ 
+.p-5:hover{
+  transform: scale(1.1,1.1);
+  
 }
